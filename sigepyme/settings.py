@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-p(o6v2*a26r(s*5b_awgl^4yms+hvyx8mw6orq+q3z)w2#(_%c
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['sigepyme.onrender']
 
 
 # Application definition
